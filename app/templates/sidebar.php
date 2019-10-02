@@ -9,6 +9,7 @@
 					<img src="<?php echo CONTENTS_SERVER_URL ?>/assets/img/user/user-12.jpg" alt="" />
 				</div>
 				<div class="info">
+				</div>
 					ハルジオン
 					<small>Halzion@senshare.jp</small>
 				</div>
