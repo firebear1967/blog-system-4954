@@ -145,7 +145,9 @@
 		</div>
 		<!-- end #header -->
 
+		<!-- begin #sidebar -->
 		<?php include(TEMPLATE_PATH."/sidebar.php"); ?>
+		<!-- end #sidebar -->
 
 		<!-- begin #content -->
 		<div id="content" class="content">
