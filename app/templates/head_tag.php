@@ -4,6 +4,7 @@
 <meta content="" name="description" />
 <meta content="" name="author" />
 
+
 <!-- ================== BEGIN BASE CSS STYLE ================== -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
 <link href="<?php echo CONTENTS_SERVER_URL ?>/assets/plugins/jquery-ui/jquery-ui.min.css" rel="stylesheet" />
@@ -14,6 +15,7 @@
 <link href="<?php echo CONTENTS_SERVER_URL ?>/assets/css/default/style-responsive.min.css" rel="stylesheet" />
 <link href="<?php echo CONTENTS_SERVER_URL ?>/assets/css/default/theme/default.css" rel="stylesheet" id="theme" />
 <!-- ================== END BASE CSS STYLE ================== -->
+
 
 <!-- ================== BEGIN BASE JS ================== -->
 <script src="<?php echo CONTENTS_SERVER_URL ?>/assets/plugins/pace/pace.min.js"></script>
