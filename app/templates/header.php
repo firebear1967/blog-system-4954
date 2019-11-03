@@ -10,6 +10,7 @@
 		</button>
 	</div>
 	<!-- end navbar-header -->
+
 	<!-- begin header-nav -->
 	<ul class="navbar-nav navbar-right">
 		<li>
@@ -108,5 +109,6 @@
 		</li>
 	</ul>
 	<!-- end header navigation right -->
+
 </div>
 <!-- end #header -->
